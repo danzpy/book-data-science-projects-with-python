@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Data-science-projects-with-Python"
+version = "0.1.0"
+description = "Projetos criados através da utilização do livro 'Data Science Projects with Python, Stephen Klosterman'"
+authors = ["Daniel L. Alves <daniel.leonssio@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
